@@ -1,2 +1,2 @@
-Lab-2https://github.com/2303A52268/AIML-2268/blob/main/Copy_of_Lab_2.ipynb
-Lab-2https://github.com/2303A52268/AIML-2268/blob/main/Another_copy_of_Lab(2).ipynb
+ Week-1: 
+ https://github.com/2303A52268/AIML-2268/blob/main/AIML_week_1.ipynb
