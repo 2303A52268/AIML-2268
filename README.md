@@ -16,3 +16,6 @@ https://github.com/2303A52268/AIML-2268/blob/main/AIML_week_1.ipynb
 
  Week-5:
  https://github.com/2303A52268/AIML-2268/blob/main/AIML_Week_5.ipynb
+
+ Week-6:
+ https://github.com/2303A52268/AIML-2268/blob/main/AIML_Week_6.ipynb
