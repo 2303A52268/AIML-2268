@@ -22,5 +22,5 @@
  Week-8:
  https://github.com/2303A52268/AIML-2268/blob/main/AIML_Week_8.ipynb
 
- Week-10
+ Week-10:
  https://github.com/2303A52268/AIML-2268/blob/main/AIML_Week_10.ipynb
